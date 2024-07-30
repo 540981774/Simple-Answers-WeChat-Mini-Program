@@ -1,0 +1,14 @@
+/* index.wxss */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+button {
+  padding: 20rpx;
+  background-color: #1cbbb4;
+  color: white;
+  border: none;
+  border-radius: 5rpx;
+}

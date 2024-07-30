@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/quiz/quiz",
+    "pages/result/result",
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "答题小程序",
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#1cbbb4",
+    "backgroundColor": "#f2f2f2"
+  }
+}

@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="question">
+    <text>{{currentQuestion.question}}</text>
+  </view>
+  <view class="options">
+    <block wx:for="{{currentQuestion.options}}" wx:key="*this">
+      <button bindtap="chooseOption" data-option="{{item}}">{{item}}</button>
+    </block>
+  </view>
+</view>

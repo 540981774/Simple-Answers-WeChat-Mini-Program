@@ -1,0 +1,17 @@
+/* quiz.wxss */
+.container {
+  padding: 20rpx;
+}
+.question {
+  font-size: 32rpx;
+  margin-bottom: 20rpx;
+}
+.options button {
+  display: block;
+  margin: 10rpx 0;
+  padding: 20rpx;
+  background-color: #1cbbb4;
+  color: white;
+  border: none;
+  border-radius: 5rpx;
+}

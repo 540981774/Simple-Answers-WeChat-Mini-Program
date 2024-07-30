@@ -1,0 +1,44 @@
+/* result.wxss */
+.page {
+  padding: 20rpx;
+}
+.page-head {
+  text-align: center;
+}
+.page-title {
+  font-size: 36rpx;
+  margin-bottom: 20rpx;
+}
+.page-score {
+  font-size: 48rpx;
+  color: #1cbbb4;
+}
+.score-num {
+  font-size: 48rpx;
+  color: #1cbbb4;
+}
+.score-text {
+  font-size: 36rpx;
+}
+.score-remark {
+  font-size: 28rpx;
+  margin-top: 20rpx;
+}
+.page-footer {
+  margin-top: 40rpx;
+}
+.wrong-view {
+  font-size: 28rpx;
+  margin-bottom: 20rpx;
+}
+.wrong-btns {
+  display: flex;
+  justify-content: space-around;
+}
+.wrong-btn {
+  padding: 20rpx;
+  background-color: #1cbbb4;
+  color: white;
+  border: none;
+  border-radius: 5rpx;
+}

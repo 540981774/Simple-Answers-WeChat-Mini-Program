@@ -1,0 +1,3 @@
+<view class="container">
+  <button bindtap="startQuiz">开始答题</button>
+</view>
